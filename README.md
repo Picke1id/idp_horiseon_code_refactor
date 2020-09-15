@@ -8,6 +8,6 @@ Built with Visual Code Studio
 Here is an example of how the code has been refactored to ensure accessibility standards through semantic tags, commenting, and html structure, as well as CSS consolidation.
 
 ![Image of Code Refraction]
-(https://github.com/Picke1id/idp_horiseon_code_refactor/blob/master/Refaction_Screenshot.png?raw=true)
+(https://user-images.githubusercontent.com/69525407/93275330-a096b400-f78a-11ea-8623-311551602b71.png)
 
 ## Installation
