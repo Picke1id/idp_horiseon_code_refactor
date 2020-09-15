@@ -7,7 +7,6 @@ Built with Visual Code Studio
 ## Code Example
 Here is an example of how the code has been refactored to ensure accessibility standards through semantic tags, commenting, and html structure, as well as CSS consolidation.
 
-![Image of Code Refraction]
-(https://user-images.githubusercontent.com/69525407/93275330-a096b400-f78a-11ea-8623-311551602b71.png)
+[!Image of Code Refraction] (https://user-images.githubusercontent.com/69525407/93275330-a096b400-f78a-11ea-8623-311551602b71.png)
 
 ## Installation
