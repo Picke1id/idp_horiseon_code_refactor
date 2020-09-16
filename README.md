@@ -5,8 +5,13 @@ The motivation behind this project was to make the code as neat and semantically
 ## Tech/Framework Used
 Built with Visual Code Studio
 ## Code Example
-Here is an example of how the code has been refactored to ensure accessibility standards through semantic tags, commenting, and html structure, as well as CSS consolidation.
+Here is an example of how the code has been refactored to ensure accessibility standards through semantic tags, commenting, and html structure, with the same methods applied to the CSS code.
 
 ![Image of Code Refraction](https://github.com/Picke1id/idp_horiseon_code_refactor/blob/master/Screenshot_1.png?raw=true)
 
 ## Installation
+Clone this repository to your machine or download zip file.
+
+## Usage
+After the repository has been cloned, click on the index.html and style.css file. View code via Visual Studio Code or another code editor of your choosing.
+## License 
