@@ -9,6 +9,14 @@ Here is an example of how the code has been refactored to ensure accessibility s
 
 ![Image of Code Refraction](https://github.com/Picke1id/idp_horiseon_code_refactor/blob/master/Screenshot_1.png?raw=true)
 
+## Features
+* Semantic tags
+* Neat & logical html structure
+* Descriptive commenting
+* Alt attributes
+* ID attributes for internal linking
+* CSS Consolidation
+
 ## Installation
 Clone this repository to your machine or download zip file.
 
