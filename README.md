@@ -23,5 +23,5 @@ Clone this repository to your machine or download zip file.
 ## Usage
 After the repository has been cloned, click on the index.html and style.css file. View code via Visual Studio Code or another code editor of your choosing.
 ## License 
-> You can reference the full license ![here](/images/logo.png)
+> You can reference the full license ![here](https://github.com/Picke1id/idp_horiseon_code_refactor/blob/master/License)
 This project is licensed under the terms of the MIT license.
