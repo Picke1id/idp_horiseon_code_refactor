@@ -1,0 +1,180 @@
+/* Bordering for entire web page */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Background color for body */
+body {
+    background-color: #d9dcd6;
+}
+
+/* Whole HEADER section */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* h1 heading tag */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* Span for h1 tag */
+.header h1 .seo {   
+    color: #d9dcd6;
+}
+
+/* Styling for navigation links in tab header */
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* All a tags */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* All p tags */
+p {
+    font-size: 16px;
+}
+
+/* Hero Image */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* Whole Main Section */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* All h2 tags */
+.h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Main Section 1 */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Main Section 2 */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Main Section 3 */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* All images in Main Section */
+#content-img {
+    max-height: 200px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Whole Aside Section */
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/* All h3 tags */
+.h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* NOTE: Margin-bottom has been increased to 50px under each ASIDE section so that the WHOLE aside section is even with whole MAIN section */
+/* Aside Section 1 */
+.benefit-lead {
+    margin-bottom: 50px;
+    color: #ffffff;
+}
+
+/* Aside Section 2 */
+.benefit-brand {
+    margin-bottom: 50px;
+    color: #ffffff;
+}
+
+/* Aside Section 3 */
+.benefit-cost {
+    margin-bottom: 50px;
+    color: #ffffff;
+}
+
+/* All images in Aside Section */
+.aside-img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Footer Section */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* h4 tag */
+h4 {
+    font-size: 20px;
+}
